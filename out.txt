@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E4A2-2BDD
+
+ Directory of C:\Users\Mohamed Awad\Desktop\filemanger with c
+
+09/05/2024  09:42 AM    <DIR>          .
+09/05/2024  09:12 AM    <DIR>          ..
+09/05/2024  09:42 AM    <DIR>          .idea
+09/05/2024  09:42 AM    <DIR>          cmake-build-debug
+09/05/2024  09:29 AM               142 CMakeLists.txt
+09/05/2024  09:42 AM             2,681 main.c
+09/05/2024  09:34 AM            41,363 main.exe
+09/05/2024  09:42 AM                 0 out.txt
+               4 File(s)         44,186 bytes
+               4 Dir(s)  43,731,931,136 bytes free

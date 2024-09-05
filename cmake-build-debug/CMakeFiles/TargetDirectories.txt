@@ -1,0 +1,3 @@
+C:/Users/Mohamed Awad/Desktop/filemanger with c/cmake-build-debug/CMakeFiles/filemanger_with_c.dir
+C:/Users/Mohamed Awad/Desktop/filemanger with c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mohamed Awad/Desktop/filemanger with c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

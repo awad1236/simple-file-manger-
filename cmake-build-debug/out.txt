@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E4A2-2BDD
+
+ Directory of C:\Users\Mohamed Awad\Desktop\filemanger with c\cmake-build-debug
+
+09/05/2024  09:29 AM    <DIR>          .
+09/05/2024  09:29 AM    <DIR>          ..
+09/05/2024  09:29 AM    <DIR>          .cmake
+09/05/2024  09:29 AM             2,384 .ninja_deps
+09/05/2024  09:29 AM               163 .ninja_log
+09/05/2024  09:29 AM            25,482 build.ninja
+09/05/2024  09:29 AM            15,345 CMakeCache.txt
+09/05/2024  09:29 AM    <DIR>          CMakeFiles
+09/05/2024  09:29 AM             1,678 cmake_install.cmake
+09/05/2024  09:29 AM           100,809 filemanger_with_c.exe
+09/05/2024  09:30 AM                 0 out.txt
+09/05/2024  09:29 AM    <DIR>          Testing
+               7 File(s)        145,861 bytes
+               5 Dir(s)  43,755,393,024 bytes free
